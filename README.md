@@ -21,10 +21,14 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br/>
+![Josiel GitHub stats](https://github-readme-stats.vercel.app/api?username=jsz611&show_icons=true&theme=dracula&count_private=true)
+
 
 
 
 O aprendizado é contínuo e o próximo nível nunca será o último  🚀 
+<br/>
 
 ### Meu Portfólio https://site-portfolio-js.netlify.app/
 
