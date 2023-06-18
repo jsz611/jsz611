@@ -29,5 +29,5 @@
 
 O aprendizado é contínuo e o próximo nível nunca será o último  🚀 
 
-### **Meu Portfólio [site](https://site-portfolio-js.netlify.app/)
+### Meu Portfólio https://site-portfolio-js.netlify.app/
 
