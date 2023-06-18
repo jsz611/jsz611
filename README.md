@@ -28,3 +28,6 @@ O aprendizado é contínuo e o próximo nível nunca será o último  🚀
 
 ### Meu Portfólio https://site-portfolio-js.netlify.app/
 
+Neste perfil vou deixar os melhores projetos, já os mais antigos você pode conferir neste aqui
+https://github.com/josiel5423926.
+
