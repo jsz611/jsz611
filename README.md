@@ -3,9 +3,9 @@
 ## Prazer, eu sou o Josiel!👨‍💻
 
  - 🎓 **Desenvolvedor Full Stack Jr pela [Recode](https://www.recodepro.org.br/), turma de 2020**.
- -  🎓 **Cusando Gestão da Tecnologia da Informação pela [Uninter](https://www.uninter.com/).
+ -  🎓 **Cusando Gestão da Tecnologia da Informação pela [Uninter](https://www.uninter.com/)**.
  
-- 🎓 Formado em  **análise e desenvolvimento de sistemas na [FAEX](https://faex.edu.br/), turma de 2017.
+- 🎓 **Formado em  análise e desenvolvimento de sistemas na [FAEX](https://faex.edu.br/), turma de 2017**.
 - 💻 Experiências em :
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
